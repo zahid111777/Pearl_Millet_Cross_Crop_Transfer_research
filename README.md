@@ -39,7 +39,7 @@ Pearl_Millet_Dataset/
 Experiments/                       ConvNeXt-Tiny results: manifests, per-run results and predictions, studies,
                                    tables, figures, integrity reports
 Experiments_vit_b16/               ViT-B/16 results (same structure; data fractions in fractions/)
-Paper/                             manuscript sources: tables, figures, references and the .docx build scripts
+
 ```
 
 Datasets and model checkpoints are **not** included (see below).
