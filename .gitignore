@@ -1,0 +1,31 @@
+# Datasets (download separately, see README; Paddy Doctor images may not be redistributed)
+Pearl_Millet_Dataset/Raw/
+Pearl_Millet_Dataset/Extracted/
+Pearl_Millet_Dataset/Cache_512/
+Pearl_Millet_Dataset/Audit/
+Rice_Dataset/Raw/
+Rice_Dataset/Extracted/
+Rice_Dataset/Audit/*.jpg
+Rice_Dataset/Audit/*/
+*.zip
+
+# Model checkpoints and run artefacts
+**/checkpoints/
+*.pt
+*.pth
+Experiments*/logs/
+Experiments*/_snapshot*/
+Experiments_smoke*/
+
+# Generated manuscript outputs
+Paper/*.docx
+Paper/*.ris
+Paper/endnote_citation_keys.csv
+Paper/02_results.md
+
+# Python / Jupyter / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store

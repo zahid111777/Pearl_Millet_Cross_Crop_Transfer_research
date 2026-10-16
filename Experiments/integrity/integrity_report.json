@@ -1,0 +1,35 @@
+{
+  "rice_cross_split_phash_pairs": {
+    "d<=0": 0,
+    "d<=2": 0,
+    "d<=4": 732,
+    "d<=6": 1924
+  },
+  "rice_group_leakage": false,
+  "rice_kept_images_byte_unique": true,
+  "rice_kept_images": 10274,
+  "pearl_images": 228,
+  "pearl_byte_unique": true,
+  "pearl_near_specimen_in_train": [
+    {
+      "protocol": "fold",
+      "test_images_with_near_specimen_in_train": 96.0,
+      "share": 0.42105263157894735
+    },
+    {
+      "protocol": "fold_spec",
+      "test_images_with_near_specimen_in_train": 0.0,
+      "share": 0.0
+    }
+  ],
+  "rice_vs_pearl_min_phash_distance": 12,
+  "rice_vs_pearl_pairs_phash_le6": 0,
+  "v1_runs": 480,
+  "spec_runs": 480,
+  "fairness_issues": [],
+  "preservation": {
+    "results.csv_snapshot_is_prefix_of_live": true,
+    "predictions.csv_snapshot_is_prefix_of_live": true,
+    "rice_backbone.pt_hash_unchanged": true
+  }
+}

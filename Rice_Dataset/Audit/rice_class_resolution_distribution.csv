@@ -1,0 +1,13 @@
+class_name,width,height,image_count
+bacterial_leaf_blight,480,640,477
+bacterial_leaf_blight,640,480,2
+bacterial_leaf_streak,480,640,380
+bacterial_panicle_blight,480,640,337
+blast,480,640,1738
+brown_spot,480,640,963
+brown_spot,640,480,2
+dead_heart,480,640,1442
+downy_mildew,480,640,620
+hispa,480,640,1594
+normal,480,640,1764
+tungro,480,640,1088

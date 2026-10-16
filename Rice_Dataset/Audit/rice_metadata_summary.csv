@@ -1,0 +1,8 @@
+metric,value
+total_records,10407
+unique_image_ids,10407
+duplicate_image_ids,0
+duplicate_rows,0
+unique_labels,10
+unique_varieties,10
+missing_values,0

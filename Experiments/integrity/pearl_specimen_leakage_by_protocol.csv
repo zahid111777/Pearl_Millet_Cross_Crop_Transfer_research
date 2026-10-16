@@ -1,0 +1,11 @@
+protocol,cosine_threshold,n_images,test_images_with_near_specimen_in_train,share
+fold,0.9,228,181.0,0.793859649122807
+fold,0.93,228,139.0,0.6096491228070176
+fold,0.95,228,96.0,0.42105263157894735
+fold,0.97,228,55.0,0.2412280701754386
+fold,median max-similarity,228,,0.9426224827766418
+fold_spec,0.9,228,142.0,0.6228070175438597
+fold_spec,0.93,228,39.0,0.17105263157894737
+fold_spec,0.95,228,0.0,0.0
+fold_spec,0.97,228,0.0,0.0
+fold_spec,median max-similarity,228,,0.9081131815910339

@@ -1,0 +1,25 @@
+arch,exp,frac,kind,ece15_mean,ece15_sd
+ConvNeXt-Tiny,imagenet_full,0.1,"fold-level ECE (15 bins, n≈45 per fold)",0.19485323830981832,0.022360735918960182
+ConvNeXt-Tiny,imagenet_full,0.25,"fold-level ECE (15 bins, n≈45 per fold)",0.24315531674579743,0.0441791532338392
+ConvNeXt-Tiny,imagenet_full,0.5,"fold-level ECE (15 bins, n≈45 per fold)",0.24111911570342684,0.038682536006041386
+ConvNeXt-Tiny,imagenet_full,1.0,"fold-level ECE (15 bins, n≈45 per fold)",0.21128126793369956,0.022925532953153853
+ConvNeXt-Tiny,rice_full,0.1,"fold-level ECE (15 bins, n≈45 per fold)",0.18485204120272763,0.029509567668437122
+ConvNeXt-Tiny,rice_full,0.25,"fold-level ECE (15 bins, n≈45 per fold)",0.23513335910817929,0.022381953330212402
+ConvNeXt-Tiny,rice_full,0.5,"fold-level ECE (15 bins, n≈45 per fold)",0.21156608842864158,0.03733330478677006
+ConvNeXt-Tiny,rice_full,1.0,"fold-level ECE (15 bins, n≈45 per fold)",0.2205123603866062,0.052206722414368814
+ConvNeXt-Tiny,ricescratch_full,0.1,"fold-level ECE (15 bins, n≈45 per fold)",0.18412081127850255,0.015397199917197917
+ConvNeXt-Tiny,ricescratch_full,0.25,"fold-level ECE (15 bins, n≈45 per fold)",0.1773207988543413,0.027104160590710732
+ConvNeXt-Tiny,ricescratch_full,0.5,"fold-level ECE (15 bins, n≈45 per fold)",0.1774722046209865,0.019208531389794937
+ConvNeXt-Tiny,ricescratch_full,1.0,"fold-level ECE (15 bins, n≈45 per fold)",0.19256177310715816,0.01827092832182378
+ViT-B/16,imagenet_full,0.1,"fold-level ECE (15 bins, n≈45 per fold)",0.21684507390387578,0.029485757314201777
+ViT-B/16,imagenet_full,0.25,"fold-level ECE (15 bins, n≈45 per fold)",0.24584487814773892,0.04637343360467061
+ViT-B/16,imagenet_full,0.5,"fold-level ECE (15 bins, n≈45 per fold)",0.26020174790307643,0.05284276802289177
+ViT-B/16,imagenet_full,1.0,"fold-level ECE (15 bins, n≈45 per fold)",0.24376410567253828,0.060577711196961696
+ViT-B/16,rice_full,0.1,"fold-level ECE (15 bins, n≈45 per fold)",0.21552415561009033,0.04917081171767484
+ViT-B/16,rice_full,0.25,"fold-level ECE (15 bins, n≈45 per fold)",0.23927944662283757,0.029989836709584983
+ViT-B/16,rice_full,0.5,"fold-level ECE (15 bins, n≈45 per fold)",0.24711840434759771,0.0456710140441894
+ViT-B/16,rice_full,1.0,"fold-level ECE (15 bins, n≈45 per fold)",0.24706403222571144,0.044690737384434014
+ViT-B/16,ricescratch_full,0.1,"fold-level ECE (15 bins, n≈45 per fold)",0.20512895284116772,0.035788616987012724
+ViT-B/16,ricescratch_full,0.25,"fold-level ECE (15 bins, n≈45 per fold)",0.21614832496972047,0.05453076119959279
+ViT-B/16,ricescratch_full,0.5,"fold-level ECE (15 bins, n≈45 per fold)",0.1978701371335106,0.04755244745618064
+ViT-B/16,ricescratch_full,1.0,"fold-level ECE (15 bins, n≈45 per fold)",0.2007768387054259,0.028743444239901793

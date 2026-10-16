@@ -1,0 +1,10 @@
+{
+  "exp": "imagenet_full",
+  "fold": 0,
+  "seed": 0,
+  "stored_macro_f1": 0.7622103386809269,
+  "rerun_macro_f1": 0.7622103386809269,
+  "abs_diff": 0.0,
+  "stored_acc": 0.875,
+  "rerun_acc": 0.875
+}

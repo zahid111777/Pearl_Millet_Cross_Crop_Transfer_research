@@ -1,0 +1,31 @@
+{
+  "best_val_macro_f1": 0.9714592759022175,
+  "test_acc": 0.970708446866485,
+  "test_bal_acc": 0.9694823797747967,
+  "test_macro_f1": 0.9679980180078193,
+  "test_ece": 0.11986178793114599,
+  "cfg": {
+    "backbone": "vit_b_16",
+    "img_size": 320,
+    "batch_size": 64,
+    "num_workers": 12,
+    "drop": 0.3,
+    "label_smoothing": 0.1,
+    "balance": "loss",
+    "mix_alpha": 0.0,
+    "amp": true,
+    "seed": 42,
+    "rice_epochs": 15,
+    "rice_lr": 0.0004,
+    "rice_wd": 0.05,
+    "rice_patience": 4,
+    "group_hamming": 2,
+    "pearl_epochs": 40,
+    "pearl_lr": 0.0002,
+    "pearl_wd": 0.05,
+    "head_lr_mult": 10.0,
+    "lld": 0.8,
+    "n_folds": 5,
+    "warmup_frac": 0.1
+  }
+}

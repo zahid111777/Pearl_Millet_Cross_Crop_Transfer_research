@@ -1,0 +1,337 @@
+{
+ "jukanti2016": {
+  "text": "Jukanti, A.K., Gowda, C.L.L., Rai, K.N., Manga, V.K., Bhatt, R.K.: Pearl millet (Pennisetum glaucum L.): an important source of food security, nutrition and health in the arid and semi-arid tropics. Food Security 8(2), 307–329 (2016).",
+  "url": "https://doi.org/10.1007/s12571-016-0557-y",
+  "endnote": "Jukanti, 2016"
+ },
+ "sharma2013": {
+  "text": "Sharma, R., Upadhyaya, H.D., Manjunatha, S.V., Rai, K.N., Gupta, S.K., Thakur, R.P.: Pathogenic variation in the pearl millet blast pathogen Magnaporthe grisea and identification of resistance to diverse pathotypes. Plant Disease 97(2), 189–195 (2013). {{HL:[DOI taken from the APS URL pattern; confirm it resolves.]}}",
+  "url": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-05-12-0481-RE",
+  "endnote": "Sharma, 2013"
+ },
+ "thakur2008": {
+  "text": "Thakur, R.P., Rai, K.N., Khairwal, I.S., Mahala, R.S.: Strategy for downy mildew resistance breeding in pearl millet in India. Journal of SAT Agricultural Research 6, 1–11 (2008).",
+  "url": "https://oar.icrisat.org/2686/",
+  "endnote": "Thakur, 2008"
+ },
+ "singh1993": {
+  "text": "Singh, S.D., King, S.B., Werner, J.: Downy Mildew Disease of Pearl Millet. Information Bulletin no. 37. ICRISAT, Patancheru, India (1993).",
+  "url": "https://oar.icrisat.org/3532/",
+  "endnote": "Singh, 1993"
+ },
+ "li2019": {
+  "text": "Li, Y.-M., Shivas, R.G., Li, B.-J., Cai, L.: Diversity of Moesziomyces (Ustilaginales, Ustilaginomycotina) on Echinochloa and Leersia (Poaceae). MycoKeys 52, 1–16 (2019).",
+  "url": "https://doi.org/10.3897/mycokeys.52.30461",
+  "endnote": "Li, 2019"
+ },
+ "usda_pm": {
+  "text": "USDA Agricultural Research Service: Pearl Millet Diseases – Fungal. Crop Genetics and Breeding Research Unit, Tifton, GA (web page). {{HL:[Undated web page: add the access date.]}}",
+  "url": "https://www.ars.usda.gov/southeast-area/tifton-ga/crop-genetics-and-breeding-research/docs/pearl-millet-diseases-fungal/",
+  "endnote": "USDA Agricultural Research Service"
+ },
+ "pm_dataset": {
+  "text": "ACRA: Image dataset of healthy and pathogen-affected pearl millet leaves with suggested control measures [Data set]. Zenodo (2025). Version v1. Licence CC-BY-4.0.",
+  "url": "https://doi.org/10.5281/zenodo.17086194",
+  "endnote": "ACRA, 2025"
+ },
+ "paddydoctor_paper": {
+  "text": "Petchiammal, A., Kiruba, S.B., Murugan, D., Arjunan, P.: Paddy Doctor: a visual image dataset for automated paddy disease classification and benchmarking. In: Proceedings of CODS-COMAD 2023 (10th ACM IKDD CODS and 28th COMAD), pp. 203–207. ACM (2023).",
+  "url": "https://doi.org/10.1145/3570991.3570994",
+  "endnote": "Petchiammal, 2023"
+ },
+ "paddydoctor_kaggle": {
+  "text": "Paddy Doctor: Paddy Doctor: Paddy Disease Classification [Data set]. Kaggle (2022).",
+  "url": "https://www.kaggle.com/competitions/paddy-disease-classification/data",
+  "endnote": "Paddy Doctor, 2022"
+ },
+ "mohanty2016": {
+  "text": "Mohanty, S.P., Hughes, D.P., Salathé, M.: Using deep learning for image-based plant disease detection. Frontiers in Plant Science 7, 1419 (2016).",
+  "url": "https://doi.org/10.3389/fpls.2016.01419",
+  "endnote": "Mohanty, 2016"
+ },
+ "hughes2015": {
+  "text": "Hughes, D.P., Salathé, M.: An open access repository of images on plant health to enable the development of mobile disease diagnostics. arXiv preprint arXiv:1511.08060 (2015).",
+  "url": "https://arxiv.org/abs/1511.08060",
+  "endnote": "Hughes, 2015"
+ },
+ "ferentinos2018": {
+  "text": "Ferentinos, K.P.: Deep learning models for plant disease detection and diagnosis. Computers and Electronics in Agriculture 145, 311–318 (2018).",
+  "url": "https://doi.org/10.1016/j.compag.2018.01.009",
+  "endnote": "Ferentinos, 2018"
+ },
+ "barbedo2018": {
+  "text": "Barbedo, J.G.A.: Impact of dataset size and variety on the effectiveness of deep learning and transfer learning for plant disease classification. Computers and Electronics in Agriculture 153, 46–53 (2018).",
+  "url": "https://doi.org/10.1016/j.compag.2018.08.013",
+  "endnote": "Barbedo, 2018"
+ },
+ "too2019": {
+  "text": "Too, E.C., Yujian, L., Njuki, S., Yingchun, L.: A comparative study of fine-tuning deep learning models for plant disease identification. Computers and Electronics in Agriculture 161, 272–279 (2019).",
+  "url": "https://doi.org/10.1016/j.compag.2018.03.032",
+  "endnote": "Too, 2019"
+ },
+ "kamilaris2018": {
+  "text": "Kamilaris, A., Prenafeta-Boldú, F.X.: Deep learning in agriculture: a survey. Computers and Electronics in Agriculture 147, 70–90 (2018).",
+  "url": "https://doi.org/10.1016/j.compag.2018.02.016",
+  "endnote": "Kamilaris, 2018"
+ },
+ "kundu2021": {
+  "text": "Kundu, N., Rani, G., Dhaka, V.S., Gupta, K., Nayak, S.C., Verma, S., Ijaz, M.F., Woźniak, M.: IoT and interpretable machine learning based framework for disease prediction in pearl millet. Sensors 21(16), 5386 (2021).",
+  "url": "https://doi.org/10.3390/s21165386",
+  "endnote": "Kundu, 2021"
+ },
+ "coulibaly2019": {
+  "text": "Coulibaly, S., Kamsu-Foguem, B., Kamissoko, D., Traore, D.: Deep neural networks with transfer learning in millet crop images. Computers in Industry 108, 115–120 (2019).",
+  "url": "https://doi.org/10.1016/j.compind.2019.02.003",
+  "endnote": "Coulibaly, 2019"
+ },
+ "johnson2024": {
+  "text": "Johnson, I., Anitha Mary, X., Peniel Winifred Raj, A., Chalmers, J., Karthikeyan, M., Andrew, J.: Deep-millet: a deep learning model for pearl millet disease identification to envisage precision agriculture. Environmental Research Communications 6(10) (2024). {{HL:[Issue number inferred from the publication date; confirm.]}}",
+  "url": "https://doi.org/10.1088/2515-7620/ad8415",
+  "endnote": "Johnson, 2024"
+ },
+ "ramya2026": {
+  "text": "Ramya, S., et al.: HAMNet: hierarchical multi-scale attention network for precise disease detection in pearl millet using spatial fusion. Scientific Reports 16, 24830 (2026). {{HL:[Only the first author was retrieved; add the full author list from the DOI page.]}}",
+  "url": "https://doi.org/10.1038/s41598-026-53453-z",
+  "endnote": "Ramya, 2026"
+ },
+ "rahman2020": {
+  "text": "Rahman, C.R., Arko, P.S., Ali, M.E., Khan, M.A.I., Apon, S.H., Nowrin, F., Wasif, A.: Identification and recognition of rice diseases and pests using convolutional neural networks. Biosystems Engineering 194, 112–120 (2020).",
+  "url": "https://doi.org/10.1016/j.biosystemseng.2020.03.020",
+  "endnote": "Rahman, 2020"
+ },
+ "lu2017": {
+  "text": "Lu, Y., et al.: Identification of rice diseases using deep convolutional neural networks. Neurocomputing 267, 378–384 (2017). {{HL:[Only the first author is confirmed; add the full author list from the DOI page.]}}",
+  "url": "https://doi.org/10.1016/j.neucom.2017.06.023",
+  "endnote": "Lu, 2017"
+ },
+ "singh2020": {
+  "text": "Singh, D., Jain, N., Jain, P., Kayal, P., Kumawat, S., Batra, N.: PlantDoc: a dataset for visual plant disease detection. In: Proceedings of the 7th ACM IKDD CoDS and 25th COMAD (CoDS COMAD 2020), pp. 249–253. ACM (2020).",
+  "url": "https://doi.org/10.1145/3371158.3371196",
+  "endnote": "Singh, 2020"
+ },
+ "yosinski2014": {
+  "text": "Yosinski, J., Clune, J., Bengio, Y., Lipson, H.: How transferable are features in deep neural networks? In: Advances in Neural Information Processing Systems 27 (NIPS 2014) (2014).",
+  "url": "https://arxiv.org/abs/1411.1792",
+  "endnote": "Yosinski, 2014"
+ },
+ "kornblith2019": {
+  "text": "Kornblith, S., Shlens, J., Le, Q.V.: Do better ImageNet models transfer better? In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2661–2671 (2019).",
+  "url": "https://doi.org/10.1109/CVPR.2019.00277",
+  "endnote": "Kornblith, 2019"
+ },
+ "raghu2019": {
+  "text": "Raghu, M., Zhang, C., Kleinberg, J., Bengio, S.: Transfusion: understanding transfer learning for medical imaging. In: Advances in Neural Information Processing Systems 32 (NeurIPS 2019), pp. 3347–3357 (2019).",
+  "url": "https://arxiv.org/abs/1902.07208",
+  "endnote": "Raghu, 2019"
+ },
+ "he2019": {
+  "text": "He, K., Girshick, R., Dollár, P.: Rethinking ImageNet pre-training. In: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 4918–4927 (2019).",
+  "url": "https://arxiv.org/abs/1811.08883",
+  "endnote": "He, 2019"
+ },
+ "neyshabur2020": {
+  "text": "Neyshabur, B., Sedghi, H., Zhang, C.: What is being transferred in transfer learning? In: Advances in Neural Information Processing Systems 33 (NeurIPS 2020) (2020).",
+  "url": "https://arxiv.org/abs/2008.11687",
+  "endnote": "Neyshabur, 2020"
+ },
+ "gururangan2020": {
+  "text": "Gururangan, S., Marasović, A., Swayamdipta, S., Lo, K., Beltagy, I., Downey, D., Smith, N.A.: Don't stop pretraining: adapt language models to domains and tasks. In: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 8342–8360 (2020).",
+  "url": "https://doi.org/10.18653/v1/2020.acl-main.740",
+  "endnote": "Gururangan, 2020"
+ },
+ "pruksachatkun2020": {
+  "text": "Pruksachatkun, Y., Phang, J., Liu, H., Htut, P.M., Zhang, X., Pang, R.Y., Vania, C., Kann, K., Bowman, S.R.: Intermediate-task transfer learning with pretrained language models: when and why does it work? In: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5231–5247 (2020).",
+  "url": "https://doi.org/10.18653/v1/2020.acl-main.467",
+  "endnote": "Pruksachatkun, 2020"
+ },
+ "xu2022": {
+  "text": "Xu, M., Yoon, S., Jeong, Y., Park, D.S.: Transfer learning for versatile plant disease recognition with limited data. Frontiers in Plant Science 13, 1010981 (2022).",
+  "url": "https://doi.org/10.3389/fpls.2022.1010981",
+  "endnote": "Xu, 2022"
+ },
+ "alsahili2022": {
+  "text": "Al Sahili, Z., Awad, M.: The power of transfer learning in agricultural applications: AgriNet. Frontiers in Plant Science 13, 992700 (2022).",
+  "url": "https://doi.org/10.3389/fpls.2022.992700",
+  "endnote": "Al Sahili, 2022"
+ },
+ "deng2009": {
+  "text": "Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., Fei-Fei, L.: ImageNet: a large-scale hierarchical image database. In: 2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 248–255 (2009).",
+  "url": "https://doi.org/10.1109/CVPR.2009.5206848",
+  "endnote": "Deng, 2009"
+ },
+ "russakovsky2015": {
+  "text": "Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., Huang, Z., Karpathy, A., Khosla, A., Bernstein, M., Berg, A.C., Fei-Fei, L.: ImageNet Large Scale Visual Recognition Challenge. International Journal of Computer Vision 115(3), 211–252 (2015).",
+  "url": "https://doi.org/10.1007/s11263-015-0816-y",
+  "endnote": "Russakovsky, 2015"
+ },
+ "liu2022": {
+  "text": "Liu, Z., Mao, H., Wu, C.-Y., Feichtenhofer, C., Darrell, T., Xie, S.: A ConvNet for the 2020s. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 11976–11986 (2022).",
+  "url": "https://doi.org/10.1109/CVPR52688.2022.01167",
+  "endnote": "Liu, 2022"
+ },
+ "dosovitskiy2021": {
+  "text": "Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N.: An image is worth 16x16 words: transformers for image recognition at scale. In: International Conference on Learning Representations (ICLR) (2021).",
+  "url": "https://openreview.net/forum?id=YicbFdNTTy",
+  "endnote": "Dosovitskiy, 2021"
+ },
+ "touvron2021": {
+  "text": "Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., Jégou, H.: Training data-efficient image transformers & distillation through attention. In: Proceedings of the 38th International Conference on Machine Learning (ICML), PMLR 139, pp. 10347–10357 (2021).",
+  "url": "https://proceedings.mlr.press/v139/touvron21a.html",
+  "endnote": "Touvron, 2021"
+ },
+ "loshchilov2019": {
+  "text": "Loshchilov, I., Hutter, F.: Decoupled weight decay regularization. In: International Conference on Learning Representations (ICLR) (2019).",
+  "url": "https://arxiv.org/abs/1711.05101",
+  "endnote": "Loshchilov, 2019"
+ },
+ "loshchilov2017": {
+  "text": "Loshchilov, I., Hutter, F.: SGDR: stochastic gradient descent with warm restarts. In: International Conference on Learning Representations (ICLR) (2017).",
+  "url": "https://arxiv.org/abs/1608.03983",
+  "endnote": "Loshchilov, 2017"
+ },
+ "szegedy2016": {
+  "text": "Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., Wojna, Z.: Rethinking the Inception architecture for computer vision. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2818–2826 (2016).",
+  "url": "https://openaccess.thecvf.com/content_cvpr_2016/html/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.html",
+  "endnote": "Szegedy, 2016"
+ },
+ "muller2019": {
+  "text": "Müller, R., Kornblith, S., Hinton, G.E.: When does label smoothing help? In: Advances in Neural Information Processing Systems 32 (NeurIPS 2019) (2019).",
+  "url": "https://arxiv.org/abs/1906.02629",
+  "endnote": "Müller, 2019"
+ },
+ "huang2016": {
+  "text": "Huang, G., Sun, Y., Liu, Z., Sedra, D., Weinberger, K.Q.: Deep networks with stochastic depth. In: European Conference on Computer Vision (ECCV), pp. 646–661. Springer (2016).",
+  "url": "https://doi.org/10.1007/978-3-319-46493-0_39",
+  "endnote": "Huang, 2016"
+ },
+ "clark2020": {
+  "text": "Clark, K., Luong, M.-T., Le, Q.V., Manning, C.D.: ELECTRA: pre-training text encoders as discriminators rather than generators. In: International Conference on Learning Representations (ICLR) (2020).",
+  "url": "https://openreview.net/forum?id=r1xMH1BtvB",
+  "endnote": "Clark, 2020"
+ },
+ "bao2022": {
+  "text": "Bao, H., Dong, L., Piao, S., Wei, F.: BEiT: BERT pre-training of image transformers. In: International Conference on Learning Representations (ICLR) (2022).",
+  "url": "https://arxiv.org/abs/2106.08254",
+  "endnote": "Bao, 2022"
+ },
+ "torchvision2016": {
+  "text": "TorchVision maintainers and contributors: TorchVision: PyTorch's computer vision library [Software]. GitHub (2016).",
+  "url": "https://github.com/pytorch/vision",
+  "endnote": "TorchVision maintainers and contributors, 2016"
+ },
+ "paszke2019": {
+  "text": "Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., et al.: PyTorch: an imperative style, high-performance deep learning library. In: Advances in Neural Information Processing Systems 32 (NeurIPS 2019), pp. 8024–8035 (2019).",
+  "url": "https://arxiv.org/abs/1912.01703",
+  "endnote": "Paszke, 2019"
+ },
+ "pedregosa2011": {
+  "text": "Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., Duchesnay, É.: Scikit-learn: machine learning in Python. Journal of Machine Learning Research 12, 2825–2830 (2011).",
+  "url": "https://jmlr.org/papers/v12/pedregosa11a.html",
+  "endnote": "Pedregosa, 2011"
+ },
+ "kapoor2023": {
+  "text": "Kapoor, S., Narayanan, A.: Leakage and the reproducibility crisis in machine-learning-based science. Patterns 4(9), 100804 (2023).",
+  "url": "https://doi.org/10.1016/j.patter.2023.100804",
+  "endnote": "Kapoor, 2023"
+ },
+ "noyan2022": {
+  "text": "Noyan, M.A.: Uncovering bias in the PlantVillage dataset. arXiv preprint arXiv:2206.04374 (2022).",
+  "url": "https://arxiv.org/abs/2206.04374",
+  "endnote": "Noyan, 2022"
+ },
+ "geirhos2020": {
+  "text": "Geirhos, R., Jacobsen, J.-H., Michaelis, C., Zemel, R., Brendel, W., Bethge, M., Wichmann, F.A.: Shortcut learning in deep neural networks. Nature Machine Intelligence 2(11), 665–673 (2020).",
+  "url": "https://doi.org/10.1038/s42256-020-00257-z",
+  "endnote": "Geirhos, 2020"
+ },
+ "barz2020": {
+  "text": "Barz, B., Denzler, J.: Do we train on test data? Purging CIFAR of near-duplicates. Journal of Imaging 6(6), 41 (2020).",
+  "url": "https://doi.org/10.3390/jimaging6060041",
+  "endnote": "Barz, 2020"
+ },
+ "zauner2010": {
+  "text": "Zauner, C.: Implementation and Benchmarking of Perceptual Image Hash Functions. Master's thesis, Upper Austria University of Applied Sciences, Hagenberg (2010).",
+  "url": "https://phash.org/docs/pubs/thesis_zauner.pdf",
+  "endnote": "Zauner, 2010"
+ },
+ "roberts2017": {
+  "text": "Roberts, D.R., Bahn, V., Ciuti, S., Boyce, M.S., Elith, J., Guillera-Arroita, G., Hauenstein, S., Lahoz-Monfort, J.J., Schröder, B., Thuiller, W., Warton, D.I., Wintle, B.A., Hartig, F., Dormann, C.F.: Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. Ecography 40(8), 913–929 (2017). {{HL:[Middle authors were listed from memory by the verifier; confirm against the DOI page.]}}",
+  "url": "https://doi.org/10.1111/ecog.02881",
+  "endnote": "Roberts, 2017"
+ },
+ "dietterich1998": {
+  "text": "Dietterich, T.G.: Approximate statistical tests for comparing supervised classification learning algorithms. Neural Computation 10(7), 1895–1923 (1998).",
+  "url": "https://doi.org/10.1162/089976698300017197",
+  "endnote": "Dietterich, 1998"
+ },
+ "demsar2006": {
+  "text": "Demšar, J.: Statistical comparisons of classifiers over multiple data sets. Journal of Machine Learning Research 7, 1–30 (2006).",
+  "url": "https://www.jmlr.org/papers/v7/demsar06a.html",
+  "endnote": "Demšar, 2006"
+ },
+ "nadeau2003": {
+  "text": "Nadeau, C., Bengio, Y.: Inference for the generalization error. Machine Learning 52(3), 239–281 (2003).",
+  "url": "https://doi.org/10.1023/A:1024068626366",
+  "endnote": "Nadeau, 2003"
+ },
+ "bouckaert2004": {
+  "text": "Bouckaert, R.R., Frank, E.: Evaluating the replicability of significance tests for comparing learning algorithms. In: Advances in Knowledge Discovery and Data Mining (PAKDD 2004), LNCS 3056, pp. 3–12. Springer (2004).",
+  "url": "https://doi.org/10.1007/978-3-540-24775-3_3",
+  "endnote": "Bouckaert, 2004"
+ },
+ "efron1993": {
+  "text": "Efron, B., Tibshirani, R.J.: An Introduction to the Bootstrap. Chapman & Hall, New York (1993).",
+  "url": "https://doi.org/10.1201/9780429246593",
+  "endnote": "Efron, 1993"
+ },
+ "holm1979": {
+  "text": "Holm, S.: A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics 6(2), 65–70 (1979).",
+  "url": "https://www.jstor.org/stable/4615733",
+  "endnote": "Holm, 1979"
+ },
+ "phipson2010": {
+  "text": "Phipson, B., Smyth, G.K.: Permutation p-values should never be zero: calculating exact p-values when permutations are randomly drawn. Statistical Applications in Genetics and Molecular Biology 9(1), 39 (2010).",
+  "url": "https://doi.org/10.2202/1544-6115.1585",
+  "endnote": "Phipson, 2010"
+ },
+ "lakens2013": {
+  "text": "Lakens, D.: Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in Psychology 4, 863 (2013).",
+  "url": "https://doi.org/10.3389/fpsyg.2013.00863",
+  "endnote": "Lakens, 2013"
+ },
+ "guo2017": {
+  "text": "Guo, C., Pleiss, G., Sun, Y., Weinberger, K.Q.: On calibration of modern neural networks. In: Proceedings of the 34th International Conference on Machine Learning (ICML), PMLR 70, pp. 1321–1330 (2017).",
+  "url": "https://proceedings.mlr.press/v70/guo17a.html",
+  "endnote": "Guo, 2017"
+ },
+ "naeini2015": {
+  "text": "Naeini, M.P., Cooper, G.F., Hauskrecht, M.: Obtaining well calibrated probabilities using Bayesian binning. In: Proceedings of the 29th AAAI Conference on Artificial Intelligence, pp. 2901–2907 (2015).",
+  "url": "https://doi.org/10.1609/aaai.v29i1.9602",
+  "endnote": "Naeini, 2015"
+ },
+ "brier1950": {
+  "text": "Brier, G.W.: Verification of forecasts expressed in terms of probability. Monthly Weather Review 78(1), 1–3 (1950).",
+  "url": "https://doi.org/10.1175/1520-0493(1950)078%3C0001:VOFEIT%3E2.0.CO;2",
+  "endnote": "Brier, 1950"
+ },
+ "buda2018": {
+  "text": "Buda, M., Maki, A., Mazurowski, M.A.: A systematic study of the class imbalance problem in convolutional neural networks. Neural Networks 106, 249–259 (2018).",
+  "url": "https://doi.org/10.1016/j.neunet.2018.07.011",
+  "endnote": "Buda, 2018"
+ },
+ "johnson2019": {
+  "text": "Johnson, J.M., Khoshgoftaar, T.M.: Survey on deep learning with class imbalance. Journal of Big Data 6, 27 (2019).",
+  "url": "https://doi.org/10.1186/s40537-019-0192-5",
+  "endnote": "Johnson, 2019"
+ },
+ "cui2019": {
+  "text": "Cui, Y., Jia, M., Lin, T.-Y., Song, Y., Belongie, S.: Class-balanced loss based on effective number of samples. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9268–9277 (2019).",
+  "url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.html",
+  "endnote": "Cui, 2019"
+ },
+ "brodersen2010": {
+  "text": "Brodersen, K.H., Ong, C.S., Stephan, K.E., Buhmann, J.M.: The balanced accuracy and its posterior distribution. In: Proceedings of the 20th International Conference on Pattern Recognition (ICPR), pp. 3121–3124. IEEE (2010).",
+  "url": "https://doi.org/10.1109/ICPR.2010.764",
+  "endnote": "Brodersen, 2010"
+ }
+}

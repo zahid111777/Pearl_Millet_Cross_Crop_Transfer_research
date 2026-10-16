@@ -1,0 +1,11 @@
+class,f1
+bacterial_leaf_blight,0.9770992366412213
+bacterial_leaf_streak,0.9900990099009901
+bacterial_panicle_blight,0.9494949494949495
+blast,0.9676113360323887
+brown_spot,0.9708029197080292
+dead_heart,1.0
+downy_mildew,0.9222222222222223
+hispa,0.9734513274336283
+normal,0.9691991786447639
+tungro,0.96
